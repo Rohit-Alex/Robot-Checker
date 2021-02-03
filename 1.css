@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+}
+h3 {
+    color: rgb(56, 2, 48);
+}
+#container img {
+    width: 90px;
+    height: 95px;
+    border-style:ridge;
+}
+#reset, #btn {
+    background-color: rgb(33, 32, 33);
+    border-style: ridge;
+    border-radius: 5%;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-style: oblique;
+    width: 150px;
+}
